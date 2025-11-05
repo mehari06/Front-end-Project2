@@ -1,2 +1,2 @@
-# Front-end-Project2
+# Front-end-Project(Meal Finder)
 (Dish) meal finder  fetch from API and show how to make , which type of ingredients have , how much we can use  when we are preparing meal 
